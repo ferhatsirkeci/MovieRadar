@@ -1,0 +1,15 @@
+<!-- res/layout/activity_watched_movies.xml -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/profilebackground"
+    >
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/watchedMoviesRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

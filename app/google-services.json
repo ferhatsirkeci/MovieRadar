@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478338575586",
+    "project_id": "movieradar-41cf9",
+    "storage_bucket": "movieradar-41cf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478338575586:android:b12cd2187b2f404b4f42bb",
+        "android_client_info": {
+          "package_name": "com.movieradarapp.movieradar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8djXXrCyeKIvpVuZ8Zyz4V2nlHuhm8dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

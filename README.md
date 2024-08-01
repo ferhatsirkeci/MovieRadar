@@ -1,4 +1,4 @@
-### MovieRadar
+# MovieRadar
 Movie mobile application for Android. Developed as a group project.
  
 * User data is retrieved from Webserver (via Firebase)
